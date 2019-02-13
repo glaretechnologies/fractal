@@ -135,7 +135,7 @@ int main(int, char**)
 	gl3wInit();
 
 	// Load shaders
-	const std::string shader_dir = "D:/programming/fractal/trunk";
+	const std::string shader_dir = "."; // Set this to your source directory to load the shaders directly
 	const std::string vertexShaderCode   = loadFile(shader_dir + "/vert.glsl");
 	const std::string fragmentShaderCode = loadFile(shader_dir + "/frag.glsl");
 

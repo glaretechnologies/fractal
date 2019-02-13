@@ -49,6 +49,8 @@ On Windows:
 ```
 to open, Then press F7 to build.
 
+* Copy vert.glsl and frag.glsl from your source dir to your fractal build dir.
+
 * Copy SDL2.dll from your SDL build dir to your fractal build dir, e.g. from `D:\programming\SDL2-2.0.9\VisualC\x64\Debug`  to `D:\programming\fractal\fractal_build`.
 
 * Back in Visual Studio, run the 'fractal' project.
