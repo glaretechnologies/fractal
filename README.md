@@ -2,6 +2,7 @@
 
 A realtime fractal rendering program.  Uses OpenGL to render on your GPU.
 
+It also serves as a simple introduction to getting an OpenGL shader up and running, and displayed fullscreen on your monitor with C++.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JUQ6srhYKMQ
 " target="_blank"><img src="http://img.youtube.com/vi/JUQ6srhYKMQ/0.jpg" 
